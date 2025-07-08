@@ -1,0 +1,17 @@
+D:\.NET- MISSION\Mission\Mission.Repositories\bin\Debug\net8.0\Mission.Repositories.deps.json
+D:\.NET- MISSION\Mission\Mission.Repositories\bin\Debug\net8.0\Mission.Repositories.runtimeconfig.json
+D:\.NET- MISSION\Mission\Mission.Repositories\bin\Debug\net8.0\Mission.Repositories.dll
+D:\.NET- MISSION\Mission\Mission.Repositories\bin\Debug\net8.0\Mission.Repositories.pdb
+D:\.NET- MISSION\Mission\Mission.Repositories\bin\Debug\net8.0\Mission.Entities.dll
+D:\.NET- MISSION\Mission\Mission.Repositories\bin\Debug\net8.0\Mission.Entities.pdb
+D:\.NET- MISSION\Mission\Mission.Repositories\obj\Debug\net8.0\Mission.Repositories.csproj.AssemblyReference.cache
+D:\.NET- MISSION\Mission\Mission.Repositories\obj\Debug\net8.0\Mission.Repositories.GeneratedMSBuildEditorConfig.editorconfig
+D:\.NET- MISSION\Mission\Mission.Repositories\obj\Debug\net8.0\Mission.Repositories.AssemblyInfoInputs.cache
+D:\.NET- MISSION\Mission\Mission.Repositories\obj\Debug\net8.0\Mission.Repositories.AssemblyInfo.cs
+D:\.NET- MISSION\Mission\Mission.Repositories\obj\Debug\net8.0\Mission.Repositories.csproj.CoreCompileInputs.cache
+D:\.NET- MISSION\Mission\Mission.Repositories\obj\Debug\net8.0\Mission..7EFB1ED9.Up2Date
+D:\.NET- MISSION\Mission\Mission.Repositories\obj\Debug\net8.0\Mission.Repositories.dll
+D:\.NET- MISSION\Mission\Mission.Repositories\obj\Debug\net8.0\refint\Mission.Repositories.dll
+D:\.NET- MISSION\Mission\Mission.Repositories\obj\Debug\net8.0\Mission.Repositories.pdb
+D:\.NET- MISSION\Mission\Mission.Repositories\obj\Debug\net8.0\Mission.Repositories.genruntimeconfig.cache
+D:\.NET- MISSION\Mission\Mission.Repositories\obj\Debug\net8.0\ref\Mission.Repositories.dll
